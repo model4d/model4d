@@ -25,6 +25,6 @@
 
 ####
 
-📜 <a href="https://hh.ru/resume/8cdb98bcff0d1e1bb70039ed1f673142795174" target="_blank">Резюме</a>
+📜 [Резюме](https://hh.ru/resume/8cdb98bcff0d1e1bb70039ed1f673142795174)
 
 📬 imv2004@gmail.com
