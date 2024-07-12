@@ -11,12 +11,17 @@
 
 В настоящее время занимаюсь поиском работы и надеюсь, что мои проекты и подход к решению задач будут Вам интересны.
 
+###
+###
 
 📜 [Резюме](https://hh.ru/resume/8cdb98bcff0d1e1bb70039ed1f673142795174)
 
 📬 imv2004@gmail.com
 
-<div>
+###
+###
+
+<div id="header" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>
