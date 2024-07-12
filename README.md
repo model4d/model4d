@@ -21,10 +21,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40" height="40"/>
-  
 </div>
 
-#### Контакты:
-<a href="http://example.com/" target="_blank">example</a>
-📜 [hh.ru](https://hh.ru/resume/8cdb98bcff0d1e1bb70039ed1f673142795174)
+####
+
+📜 <a href="https://hh.ru/resume/8cdb98bcff0d1e1bb70039ed1f673142795174" target="_blank">Резюме</a>
+
 📬 imv2004@gmail.com
